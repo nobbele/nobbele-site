@@ -1,0 +1,17 @@
+.categoryItemList {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.softwareCategoryItemList {
+  gap: 60px;
+}
+
+.categoryItemText {
+  max-width: 768px;
+  word-wrap: break-word;
+}
